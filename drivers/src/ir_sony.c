@@ -181,7 +181,7 @@ void* IR_SonyDevices[32] = {
 void ConvertSony(void)
 {
   DecDeviceID = 0;
-//  DecCommandID = 0;
+  DecCommandID = 0;
 //  comL = 0;
 //  comH = 0;
 //  devL = 0;
